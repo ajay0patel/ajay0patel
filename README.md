@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajay0patel
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Kafka and Docker
 - 📫 How to reach me : iiitianajay@gmail.com 
 
 <!---
